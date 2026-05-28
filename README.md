@@ -12,8 +12,6 @@ Agent (with this skill) → POST /tts
 Returns: https://tts-api.aworld.ltd/audio/tts_xxx.wav
 ```
 
-> **📘 想直接写客户端 / 集成进自己的系统？** 看 [`docs/CLIENT.md`](docs/CLIENT.md) — 完整 API 参考 + cURL / Python / Node / Go / Java / Rust 可粘贴示例 + 超时重试并发等工程细节。
-
 ## 特性
 
 - 14 语种：中、英、日、韩、德、法、西、葡、意、俄、泰、印尼、越南、马来
